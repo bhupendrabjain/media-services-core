@@ -1,4 +1,1 @@
-media-services-core
-===================
-
-Testing commit for the first time
+this is to help understand use of git flow
